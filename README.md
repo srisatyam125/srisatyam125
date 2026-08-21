@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Satyam Srivastava
 - 👀 I’m interested in Development And Machine Learning
-- 🌱 I’m currently learning Android Development...
+- 🌱 I’m currently learning Backend Development in Spring Boot framework
 - 💞️ I’m looking to collaborate on open source project...
 
 
